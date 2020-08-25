@@ -13,6 +13,10 @@
 
      printf("Computer Science!\n");
 
+     printf("Jace Miller\n");
+     
+     printf("Undecided\n");
+     
     return 0;
 }
 
